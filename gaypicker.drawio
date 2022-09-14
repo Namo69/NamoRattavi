@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-14T08:26:05.981Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="CtwcYMnFzkJZ-86lva5H" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-14T08:29:30.060Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="DYn0CuS3TlMQWr_nvMH2" version="20.2.7" type="github">
   <diagram id="oDAzfGuLfh1hewRc8N14" name="Page-1">
-    <mxGraphModel dx="782" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1117" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -127,10 +127,10 @@
         <mxCell id="F8ILuRXKFCxJmVYlZiPn-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F8ILuRXKFCxJmVYlZiPn-25" target="F8ILuRXKFCxJmVYlZiPn-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="F8ILuRXKFCxJmVYlZiPn-25" value="SEND &#39;You won, congrats!&#39;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="F8ILuRXKFCxJmVYlZiPn-25" value="SEND &#39;You won, congrats!&#39; TO DISPLAY" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="F8ILuRXKFCxJmVYlZiPn-27" value="SEND &#39;Wrong, L+Bozo&#39;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="F8ILuRXKFCxJmVYlZiPn-27" value="SEND &#39;Wrong, L+Bozo&#39; TO DISPLAY" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F8ILuRXKFCxJmVYlZiPn-30" value="SEND &#39;Please enter the number that is between 1 and 10&#39;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
